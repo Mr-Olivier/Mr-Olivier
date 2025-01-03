@@ -40,9 +40,13 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 
 ## 📬 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olivier-iradukunda-8269412a0/)
+
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:oiradukunda63@gmail.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram)](https://www.instagram.com/__olivier__20/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/OIradukund43222)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://olivier-ira.vercel.app/)
 
 ---
