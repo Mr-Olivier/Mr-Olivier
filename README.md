@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olivier Iradukunda!
+#  Hi 👋, I'm Olivier Iradukunda!
 
 🌟 **Software Engineer | Backend Developer | Data Scientist**
 
