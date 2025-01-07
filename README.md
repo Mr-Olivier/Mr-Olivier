@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 ## 🌟 **Highlighted Projects**
 - 📂 [E-commerce Backend](https://github.com/Mr-Olivier/E-commerce-App): A scalable backend API for an e-commerce platform.
 - 📊 [Customer Churn Prediction](https://github.com/olivieriradukunda/churn-prediction): A machine learning model to predict customer churn.
-- 🌐 [Personal Portfolio Website](https://github.com/olivieriradukunda/portfolio): A dynamic portfolio to showcase my work.
+- 🌐 [Personal Portfolio Website](https://olivier-ira.vercel.app/): A dynamic portfolio to showcase my work.
 
 ---
 
