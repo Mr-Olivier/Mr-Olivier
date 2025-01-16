@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 ---
 
 ## 🚀 **About Me**
-- 💻 Backend Development: Node.js, Express.js, MySQL, MongoDB
+- 💻 Backend Development: Node.js, Express.js, Java, MySQL, MongoDB
 - 📊 Data Science: Python, Pandas, Machine Learning
-- ☁️ Cloud Computing: AWS, Docker, Kubernetes
-- 🌐 Web Development: React.js, APIs, TypeScript
+- ☁️ Cloud Computing: AWS, Docker
+- 🌐 Web Development: React JS, Next JS, APIs, TypeScript
 - 🔧 Problem Solver: I love tackling complex challenges!
 
 ---
@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 - **Languages:** Python, JavaScript, TypeScript, SQL
 - **Frameworks:** Node.js, Express.js, Flask, React.js
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Prisma ORM
-- **Cloud:** AWS (Lambda, S3, EC2), Azure
+- **Tools:** Git, Docker, Prisma ORM
+- **Cloud:** AWS (Lambda, S3, EC2)
 - **Data Science:** Machine Learning, Pandas, NumPy, Matplotlib
 
 ---
