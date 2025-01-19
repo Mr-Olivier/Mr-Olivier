@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 ---
 
 ## 🌟 **Highlighted Projects**
-- 📂 [E-commerce Backend](https://ecommerce-platform-henna.vercel.app/): A scalable backend API for an e-commerce platform.
+- 📂 [E-commerce Platform](https://ecommerce-platform-henna.vercel.app/): A scalable backend API for an e-commerce platform.
 - 📊 [Customer Churn Prediction](https://github.com/olivieriradukunda/churn-prediction): A machine learning model to predict customer churn.
 - 🌐 [Personal Portfolio Website](https://olivier-ira.vercel.app/): A dynamic portfolio to showcase my work.
 
