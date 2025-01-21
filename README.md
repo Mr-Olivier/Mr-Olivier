@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 ---
 
 ## 🛠️ **Skills**
-- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Languages:** Python, Java, JavaScript, TypeScript, SQL
 - **Frameworks:** Node.js, Express.js, Flask, React.js
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Prisma ORM
