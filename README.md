@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 ---
 
 ## 🚀 **About Me**
-- 💻 Backend Development: Node.js, Express.js, Java, MySQL, MongoDB
+- 💻 Backend Development: Node JS, Express JS, Java, MySQL, MongoDB
 - 📊 Data Science: Python, Pandas, Machine Learning
 - ☁️ Cloud Computing: AWS, Docker
 - 🌐 Web Development: React JS, Next JS, APIs, TypeScript
