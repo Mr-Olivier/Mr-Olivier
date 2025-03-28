@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 📈 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Olivier&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Olivier's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Olivier&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-  <br><br>
+  <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mr-Olivier&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Olivier's GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Olivier&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  </p>
   <img src="https://github-profile-trophy.vercel.app/?username=Mr-Olivier&theme=radical&row=1&column=6" alt="Trophy Stats" />
 </div>
 
@@ -69,17 +69,14 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 🌟 **Highlighted Projects**
 
-<div align="center">
-  <a href="https://ecommerce-platform-plum.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Olivier&repo=ecommerce-platform&theme=radical" alt="E-commerce Platform" />
-  </a>
-  <a href="https://github.com/olivieriradukunda/churn-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Olivier&repo=churn-prediction&theme=radical" alt="Churn Prediction" />
-  </a>
-  <a href="https://olivier-ira.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Olivier&repo=portfolio-website&theme=radical" alt="Portfolio Website" />
-  </a>
-</div>
+### 📂 [E-commerce Platform](https://ecommerce-platform-plum.vercel.app/)
+A scalable backend API for an e-commerce platform with full admin dashboard and customer portal.
+
+### 📊 [Customer Churn Prediction](https://github.com/olivieriradukunda/churn-prediction)
+A machine learning model to predict customer churn using advanced data analysis techniques.
+
+### 🌐 [Personal Portfolio Website](https://olivier-ira.vercel.app/)
+A dynamic portfolio website built with Next.js to showcase my projects and skills.
 
 ## 📬 **Connect With Me**
 <p align="center">
