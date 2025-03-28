@@ -16,8 +16,11 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 ---
 
 ## 📈 **GitHub Stats**
-![Olivier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Olivier&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Olivier&layout=compact&theme=radical)
+![Olivier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Olivier&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Olivier&layout=compact&theme=radical&langs_count=10)
+
+<!-- Alternative stats that sometimes work better -->
+[![Olivier's Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mr-Olivier&theme=radical&count_private=true)](https://github.com/Mr-Olivier)
 
 ---
 
