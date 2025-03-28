@@ -1,101 +1,121 @@
-# Olivier Iradukunda
+# Hi 👋, I'm Olivier Iradukunda!
 
+🌟 **Software Engineer | Full Stack Developer | Backend Specialist**
+
+Welcome to my GitHub profile! I'm passionate about building scalable applications, solving complex problems, and creating impactful projects.
+
+## 🚀 **About Me**
+- 💻 **Backend Development:** Node JS, Express JS, Java, MySQL, MongoDB
+- 🌐 **Frontend Development:** React JS, Next JS, TypeScript, HTML/CSS
+- ☁️ **Cloud Computing:** AWS, Docker
+- 🔧 **Problem Solver:** I love tackling complex challenges!
+
+## 📈 **GitHub Stats**
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineer;Backend+Developer;Data+Scientist" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Olivier&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Olivier's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Olivier&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Olivier&theme=radical&row=1&column=6" alt="Trophy Stats" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/olivier-iradukunda-8269412a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:oiradukunda63@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail">
-  </a>
-  <a href="https://olivier-ira.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox" alt="Portfolio">
-  </a>
-</p>
-
-## About Me
-
-I'm a passionate software engineer with expertise in backend development and data science. I specialize in building scalable applications, solving complex problems with data, and creating impactful projects that make a difference.
-
-## Tech Stack
+## 🛠️ **Skills**
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,flask" alt="Backend Technologies" />
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <h3 align="center">Frontend</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css" alt="Frontend Technologies" />
-      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </p>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
+      <h3 align="center">Backend</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">Databases</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
       <h3 align="center">DevOps & Tools</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=aws,docker,git" alt="DevOps Tools" />
-      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Olivier&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" alt="Olivier's GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Olivier&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Most Used Languages" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Olivier&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</div>
-
-## Featured Projects
+## 🌟 **Highlighted Projects**
 
 <div align="center">
   <a href="https://ecommerce-platform-plum.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Olivier&repo=ecommerce-platform&theme=tokyonight" alt="E-commerce Platform" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Olivier&repo=ecommerce-platform&theme=radical" alt="E-commerce Platform" />
   </a>
   <a href="https://github.com/olivieriradukunda/churn-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Olivier&repo=churn-prediction&theme=tokyonight" alt="Churn Prediction" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Olivier&repo=churn-prediction&theme=radical" alt="Churn Prediction" />
+  </a>
+  <a href="https://olivier-ira.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Olivier&repo=portfolio-website&theme=radical" alt="Portfolio Website" />
   </a>
 </div>
 
-## What I'm Learning
-
-- 🌱 Advanced Data Engineering with Spark and Kafka
-- 🔥 Next.js for full-stack development
-- ☸️ Cloud-Native Development with Kubernetes
-
-## Let's Connect
-
+## 📬 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/olivier-iradukunda-8269412a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:oiradukunda63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/__olivier__20/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://x.com/OIradukund43222">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://olivier-ira.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox" alt="Portfolio" />
   </a>
 </p>
 
+## 🌱 **Currently Learning**
+- Next.js for advanced full-stack development
+- Cloud-Native Development with Kubernetes
+- Advanced API Design and Microservices Architecture
+
+## ✨ **Fun Fact**
+I believe in learning by doing and enjoy contributing to open-source projects. Feel free to collaborate or connect!
+
+---
+
+### Thank you for visiting my profile! 🌟
+
 <div align="center">
-  <p><i>I believe in learning by doing and enjoy contributing to open-source projects. Feel free to collaborate or connect!</i></p>
   <a href='https://ko-fi.com/T6T0ZUPZR' target='_blank'>
-    <img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
 
-<!--
-  Note: If any of the repository links don't work, please update them to match your actual repository names.
-  To make the featured projects work correctly, be sure to replace the repository names to match yours.
--->
+<!-- Note: Make sure to replace repo names in the project section with your actual repositories -->
