@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 🚀 **About Me**
 - 💻 **Backend Development:** Node JS, Express JS, Java, Spring Boot, Spring JPA, Hibernate, MySQL, PostgreSQL, MongoDB
-- 🌐 **Frontend Development:** React JS, Next JS, TypeScript, HTML/CSS
+- 🌐 **Frontend Development:** React JS, Next JS, TypeScript, Tailwind CSS, HTML/CSS
 - ☁️ **Cloud Computing:** AWS, Docker
 - 🔧 **Problem Solver:** I love tackling complex challenges!
 
@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -79,7 +80,7 @@ A scalable backend API for an e-commerce platform with full admin dashboard and 
 A machine learning model to predict customer churn using advanced data analysis techniques.
 
 ### 🌐 [Personal Portfolio Website](https://olivier-ira.vercel.app/)
-A dynamic portfolio website built with Next.js to showcase my projects and skills.
+A dynamic portfolio website built with Next.js and Tailwind CSS to showcase my projects and skills.
 
 ## 📬 **Connect With Me**
 <p align="center">
