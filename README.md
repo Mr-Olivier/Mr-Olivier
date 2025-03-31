@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm passionate about building scalable applications, solving complex problems, and creating impactful projects.
 
 ## 🚀 **About Me**
-- 💻 **Backend Development:** Node JS, Express JS, Java, MySQL, MongoDB
+- 💻 **Backend Development:** Node JS, Express JS, Java, Spring Boot, Spring JPA, Hibernate, MySQL, PostgreSQL, MongoDB
 - 🌐 **Frontend Development:** React JS, Next JS, TypeScript, HTML/CSS
 - ☁️ **Cloud Computing:** AWS, Docker
 - 🔧 **Problem Solver:** I love tackling complex challenges!
@@ -40,6 +40,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
       </p>
@@ -53,6 +55,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
       </p>
     </td>
     <td valign="top" width="50%">
@@ -70,7 +73,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 🌟 **Highlighted Projects**
 
 ### 📂 [E-commerce Platform](https://ecommerce-platform-plum.vercel.app/)
-A scalable backend API for an e-commerce platform with full admin dashboard and customer portal.
+A scalable backend API for an e-commerce platform with full admin dashboard and customer portal, built with Spring Boot, PostgreSQL, and React.
 
 ### 📊 [Customer Churn Prediction](https://github.com/olivieriradukunda/churn-prediction)
 A machine learning model to predict customer churn using advanced data analysis techniques.
@@ -101,6 +104,7 @@ A dynamic portfolio website built with Next.js to showcase my projects and skill
 - Next.js for advanced full-stack development
 - Cloud-Native Development with Kubernetes
 - Advanced API Design and Microservices Architecture
+- Enterprise Java applications with Spring Boot and Hibernate
 
 ## ✨ **Fun Fact**
 I believe in learning by doing and enjoy contributing to open-source projects. Feel free to collaborate or connect!
@@ -114,5 +118,3 @@ I believe in learning by doing and enjoy contributing to open-source projects. F
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
-
-<!-- Note: Make sure to replace repo names in the project section with your actual repositories -->
