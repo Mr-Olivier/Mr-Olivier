@@ -1,29 +1,8 @@
 # Hi 👋, I'm Olivier Iradukunda!
 
-<h1 align="center">
-  🌟 <span style="color:#2ecc71;">Software Engineer</span> | 
-  <span id="dynamic-role" style="color:#3498db;">Full-Stack Developer</span>
-</h1>
+ 🌟 **Software Engineer | Full Stack Developer | Backend Specialist**
 
-<p align="center">👋 Welcome to my GitHub profile! I'm passionate about building scalable systems, solving complex challenges, and shipping production-ready software.</p>
-
-<script>
-  const roles = [
-    { text: "Full-Stack Developer", color: "#3498db" },
-    { text: "Backend Systems Specialist", color: "#e67e22" },
-    { text: "Cloud-Ready Engineer", color: "#9b59b6" },
-    { text: "Tech-Savvy Problem Solver", color: "#1abc9c" },
-    { text: "API Craftsman", color: "#f1c40f" }
-  ];
-  let index = 0;
-  setInterval(() => {
-    const roleElement = document.getElementById("dynamic-role");
-    index = (index + 1) % roles.length;
-    roleElement.textContent = roles[index].text;
-    roleElement.style.color = roles[index].color;
-  }, 2000);
-</script>
-
+Welcome to my GitHub profile! I'm passionate about building scalable applications, solving complex problems, and creating impactful projects.
 
 ## 🚀 **About Me**
 - 💻 **Backend Development:** Node JS, Express JS, Java, Spring Boot, Spring JPA, Hibernate, MySQL, PostgreSQL, MongoDB
