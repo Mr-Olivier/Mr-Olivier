@@ -1,6 +1,6 @@
 # Hi 👋, I'm Olivier Iradukunda!
 
- 🌟 **Software Engineer | Full Stack Developer | Backend Specialist**
+ 🌟 **Software Developer | Backend Specialist**
 
 Welcome to my GitHub profile! I'm passionate about building scalable applications, solving complex problems, and creating impactful projects.
 
