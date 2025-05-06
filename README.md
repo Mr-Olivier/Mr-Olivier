@@ -84,7 +84,7 @@ A dynamic portfolio website built with Next.js and Tailwind CSS to showcase my p
 
 ## 📬 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/olivier-iradukunda-8269412a0/">
+  <a href="https://www.linkedin.com/in/olivier-irad/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:oiradukunda63@gmail.com">
