@@ -83,8 +83,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 🌟 **Highlighted Projects**
 
-### 📱 [Flutter E-commerce App](https://github.com/Mr-Olivier/Global_Chat_App)
-A cross-platform mobile e-commerce application built with Flutter, Dart, and Firebase for real-time data synchronization and user authentication.
+### 📱 [Flutter Global_Chat App](https://github.com/Mr-Olivier/Global_Chat_App)
+A cross-platform mobile global chat application built with Flutter, Dart, and Firebase for real-time data synchronization and user authentication.
 
 ### 📂 [E-commerce Platform](https://ecommerce-platform-plum.vercel.app/)
 A scalable backend API for an e-commerce platform with full admin dashboard and customer portal, built with Node JS, PostgreSQL, and React.
