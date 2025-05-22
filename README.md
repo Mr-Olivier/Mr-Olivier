@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 - 🌐 **Frontend Development:** React JS, Next JS, TypeScript, Tailwind CSS, HTML/CSS
 - 📱 **Mobile Development:** Flutter, Dart, Firebase
 - ☁️ **Cloud Computing:** AWS, Docker, Firebase
+- 📚 **API Documentation & Testing:** Swagger, Postman
 - 🔧 **Problem Solver:** I love tackling complex challenges!
 
 ## 📈 **GitHub Stats**
@@ -74,6 +75,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
         <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
         <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -81,7 +83,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 🌟 **Highlighted Projects**
 
-### 📱 [Flutter Global_Chat App](https://github.com/Mr-Olivier/Global_Chat_App)
+### 📱 [Flutter E-commerce App](https://github.com/Mr-Olivier/flutter-ecommerce)
 A cross-platform mobile e-commerce application built with Flutter, Dart, and Firebase for real-time data synchronization and user authentication.
 
 ### 📂 [E-commerce Platform](https://ecommerce-platform-plum.vercel.app/)
@@ -117,7 +119,7 @@ A dynamic portfolio website built with Next.js and Tailwind CSS to showcase my p
 - Firebase Cloud Functions and advanced Firestore queries
 - Next.js for advanced full-stack development
 - Cloud-Native Development with Kubernetes
-- Advanced API Design and Microservices Architecture
+- Advanced API Design, Documentation and Microservices Architecture
 - Enterprise Java applications with Spring Boot and Hibernate
 
 ## ✨ **Fun Fact**
