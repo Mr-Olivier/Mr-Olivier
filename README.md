@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 🌟 **Highlighted Projects**
 
 ### 📂 [E-commerce Platform](https://ecommerce-platform-plum.vercel.app/)
-A scalable backend API for an e-commerce platform with full admin dashboard and customer portal, built with Spring Boot, PostgreSQL, and React.
+A scalable backend API for an e-commerce platform with full admin dashboard and customer portal, built with Node JS, PostgreSQL, and React.
 
 ### 📊 [Customer Churn Prediction](https://github.com/olivieriradukunda/churn-prediction)
 A machine learning model to predict customer churn using advanced data analysis techniques.
