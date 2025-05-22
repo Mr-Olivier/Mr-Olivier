@@ -1,6 +1,6 @@
 # Hi 👋, I'm Olivier Iradukunda!
 
- 🌟 **Software Developer | Full Stack & Mobile Specialist**
+ 🌟 ** Full Stack & Mobile Developer**
 
 Welcome to my GitHub profile! I'm passionate about building scalable applications, solving complex problems, and creating impactful projects across web and mobile platforms.
 
