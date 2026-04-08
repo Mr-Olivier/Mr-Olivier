@@ -109,7 +109,7 @@ A dynamic portfolio website built with Next.js and Tailwind CSS to showcase my p
   <a href="https://x.com/OIradukund43222">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
-  <a href="https://olivier-ira.vercel.app/">
+  <a href="https://olivierira.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox" alt="Portfolio" />
   </a>
 </p>
