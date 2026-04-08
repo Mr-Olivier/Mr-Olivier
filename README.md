@@ -92,7 +92,7 @@ A scalable backend API for an e-commerce platform with full admin dashboard and 
 ### 📊 [Customer Churn Prediction](https://github.com/olivieriradukunda/churn-prediction)
 A machine learning model to predict customer churn using advanced data analysis techniques.
 
-### 🌐 [Personal Portfolio Website](https://olivier-ira.vercel.app/)
+### 🌐 [Personal Portfolio Website](https://olivierira.com/)
 A dynamic portfolio website built with Next.js and Tailwind CSS to showcase my projects and skills.
 
 ## 📬 **Connect With Me**
