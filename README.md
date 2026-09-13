@@ -1,4 +1,8 @@
-![Contribution](https://github.com/Mr-Olivier/Mr-Olivier/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-Olivier/Mr-Olivier/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-Olivier/Mr-Olivier/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mr-Olivier/Mr-Olivier/output/github-contribution-grid-snake.svg" />
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+am+a+Software+Engineer;I+am+a+Backend+Specialist;I+am+a+Flutter+Developer)](https://olivierira.com/)
 
