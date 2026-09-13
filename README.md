@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+am+a+Software+Engineer;I+am+a+Backend+Specialist;I+am+a+Flutter+Developer)](https://olivierira.com/)
 
-**Olivier Iradukunda**: *Software Engineer crafting scalable backend systems and seamless mobile experiences.*
+**Olivier Iradukunda**: *Full-stack Software Engineer & CS graduate (2026) — building web apps, APIs, and mobile experiences, and deploying them with Docker, CI/CD, and cloud (AWS/Azure).*
 
 <h3 align="left">Core Skills</h3>
 <p align="left">
